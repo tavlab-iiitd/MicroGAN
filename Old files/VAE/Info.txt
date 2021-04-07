@@ -1,0 +1,9 @@
+Models saved in form of dictionary of the following structure
+
+            'Enc':encoder,
+            'Dec':decoder,
+            'state_dict':{
+              'enc':encoder state dict,
+              'dec':decoder state dict
+            } 
+            
