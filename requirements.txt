@@ -1,0 +1,12 @@
+seaborn == 0.10.1
+torch == 1.7.1
+matplotlib == 3.2.1
+scipy == 1.4.1
+scikit-learn
+numpy
+pandas
+os
+glob
+ctgan == 0.3.0
+time
+
